@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558607182 source:e:\code c++\bai tap lon\built1.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<fstream>
+
+1558607182 source:d:\github\falling-bombs\built1.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<ctime>
+	<cstdlib>
+	<cmath>
+	<string>
+	<fstream>
+
